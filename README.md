@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mg3qnonbmks4vj3f?svg=true)](https://ci.appveyor.com/project/NikaNesterova/testmodepatterns)
